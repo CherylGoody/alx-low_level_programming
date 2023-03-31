@@ -11,6 +11,7 @@ int _putchar(char c);
 void print_array(int *a, int n);
 int main(void);
 char *leet(char *);
+char *rot13(char *);
 
 #endif
 
